@@ -2,7 +2,7 @@
 
 Nowadays, with the increasing amount of information collected by various entities. The task of generating value out of the data has become a difficult task to overcome. I'm a rising data scientist, I like the concept of generating value out of the data at hand, to help businesses make smarter decisions.  Interested in applied Machine Learning research and applications. I have experience in recommender systems, machine learning, and deep learning. 
 
-Highly motivated, driven, and self-taught.
+Highly motivated, self-driven, and self-taught.
 
 
 
