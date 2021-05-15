@@ -24,9 +24,6 @@ Highly motivated, self-driven, and self-taught.
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeself0&theme=tokyonight"/>
 
 
-[![CreativeSelf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=creativeself0&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
