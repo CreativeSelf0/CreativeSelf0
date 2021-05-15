@@ -8,7 +8,7 @@ Highly motivated, self-driven, and self-taught.
 # Some Info
 - 🌱 I’m currently intersted in Data Science, and trying to expand my knowledge in this field.
 - 🤔 I’m open for contributing to open-source projects, just hit me up.
-- 🧑 Fluent in Enlgish but I want to improve it and speak with the foreign developers.
+- 🧑 Fluent in English but I want to improve it and speak with the foreign developers.
 - 😎 I really want to learn many things and become expert; there're many goals and dreams which I hope to achieve.
 - 🙏 I always like to make developer friends and work with them.
 - 👊 I am trying my best to contribute in open source and help others if possible. <br><br>
