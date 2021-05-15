@@ -16,7 +16,7 @@ Highly motivated, self-driven, and self-taught.
 
 
 ### Feel free to DM; it's always open!
-[![Twitter](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=twitter)](https://twitter.com/abdulmajedmarek)
+[![Twitter](https://img.shields.io/badge/Twitter-252422.svg?style=for-the-badge&logo=twitter)](https://twitter.com/abdulmajedmarek)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](xmjoodi@gmail.com)<br>
 
 <hr><br>
