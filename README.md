@@ -21,8 +21,8 @@ Highly motivated, self-driven, and self-taught.
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](abhinavchaudhary351@gmail.com)<br>
 
 <hr><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Brodevil&theme=radical&show_icons=true"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brodevil&theme=tokyonight"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=creativeself0&theme=radical&show_icons=true"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeself0&theme=tokyonight"/>
 
 
 [![CreativeSelf0's GitHub stats](https://github-readme-stats.vercel.app/api?username=creativeself0&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
