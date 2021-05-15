@@ -6,8 +6,7 @@ Highly motivated, self-driven, and self-taught.
 
 
 # Some Info
-- 🔭 I’m currently working with Python
-- 🌱 I’m currently learning some Python frameworks 
+- 🌱 I’m currently intersted in Data Science, and trying to expand my knowledge in this field.
 - 🤔 I’m open for contributing to open-source projects, just hit me up.
 - 🧑 Fluent in Enlgish but I want to improve it and speak with the foreign developers.
 - 😎 I really want to learn many things and become expert; there're many goals and dreams which I hope to achieve.
