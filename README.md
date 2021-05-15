@@ -18,7 +18,7 @@ Highly motivated, self-driven, and self-taught.
 ### Feel free to DM; it's always open!
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discord.gg/VY5e8g5P)
 [![Instrgram](https://img.shields.io/badge/Instagram-252422.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/brodevil_89/)
-[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](abhinavchaudhary351@gmail.com)<br>
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=mail)](abhinavchaudhary351@gmail.com)<br>
 
 <hr><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=creativeself0&theme=radical&show_icons=true"/>
