@@ -8,7 +8,6 @@ Highly motivated, self-driven, and self-taught.
 # Some Info
 - 🌱 I’m currently intersted in Data Science, and trying to expand my knowledge in this field.
 - 😎 I’m open for contributing to open-source projects, just hit me up.
-- 👊 I am trying my best to contribute in open source and help others if possible. <br><br>
 
 
 ### Feel free to DM; it's always open!
