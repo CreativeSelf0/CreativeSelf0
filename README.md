@@ -11,8 +11,7 @@ Highly motivated, self-driven, and self-taught.
 
 
 ### Feel free to DM; it's always open!
-[![Twitter](https://img.shields.io/badge/Twitter-252422.svg?style=for-the-badge&logo=twitter)](https://twitter.com/abdulmajedmarek)
-[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:p.sw@windowslive.com)<br>
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:abdulmajeedmarek@gmail.com)<br>
 
 <hr><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=creativeself0&theme=radical&show_icons=true"/>
