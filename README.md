@@ -1,15 +1,6 @@
 ### About me
 --- 
 <p align="center">
-    <svg width="160" height="160" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <clipPath id="clip-circle">
-            <circle cx="80" cy="80" r="80" />
-        </clipPath>
-    </defs>
-    <image href="https://pbs.twimg.com/profile_images/1697057509721149440/dIK2DCab_400x400.jpg" height="160" width="160" clip-path="url(#clip-circle)" />
-    </svg>
-
   <h2 align="center">Hello, I'm Abulmajeed 👋</h2>
   <p align="left">
     I'm a Senior Machine Learning Engineer from Saudi Arabia living 🇸🇦 in Riyadh. I have a passion for coding and I'm fascinated by the new way of coding computers using human language as an interface aided by the new technological advancements brought by AI. While much of my recent work remains confined within the bounds of my organization, my curious nature ensures I'm always tinkering with new tools and frameworks. 
